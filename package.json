@@ -8,7 +8,7 @@
     "fix": "biome check --apply ./"
   },
   "dependencies": {
-    "@ark-ui/solid": "5.24.1",
+    "@ark-ui/solid": "5.25.0",
     "astro": "4.16.19",
     "solid-js": "1.9.9"
   },
