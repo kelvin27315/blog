@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@ark-ui/solid": "5.34.1",
-    "astro": "4.16.19",
+    "astro": "6.0.8",
     "solid-js": "1.9.11"
   },
   "devDependencies": {
