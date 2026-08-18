@@ -10,7 +10,7 @@
   "dependencies": {
     "@ark-ui/solid": "5.38.2",
     "astro": "4.16.19",
-    "solid-js": "1.9.14"
+    "solid-js": "1.9.15"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
